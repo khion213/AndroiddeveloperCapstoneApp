@@ -1,19 +1,33 @@
-# Android Developer Capstone Project – Meta Android Professional Certificate
+# Little Lemon 🍋
 
-This repository contains the complete Android application developed as the final capstone project for the **Meta Android Developer Professional Certificate** on Coursera.
+**Android Developer Capstone Project – Meta Android Developer Professional Certificate**
 
 ## 📱 About the App
 
-This project demonstrates a full-stack Android application built using **Kotlin** and **Jetpack Compose**. It includes several advanced Android development practices such as:
+This repository contains **Little Lemon**, the complete final capstone Android application for the **Meta Android Developer Professional Certificate** on Coursera.
 
-- MVVM architecture
-- State management with `ViewModel`
-- Navigation using **Jetpack Navigation**
-- Persistent local storage using **Room** and **SharedPreferences**
-- Asynchronous networking with **Ktor**
-- JSON parsing with **kotlinx.serialization**
+The app simulates a food ordering experience for a fictional restaurant called *Little Lemon*, allowing users to browse the menu, apply filters, and place orders — all while demonstrating modern Android development practices.
 
-It is the **final project** in the Meta professional career path, showcasing skills and concepts learned throughout the program.
+## 🚀 Features
+
+This project implements all required features of the Meta capstone and includes **additional enhancements** commonly found in top-tier submissions:
+
+- ✅ **Onboarding Flow** – Welcomes new users and collects basic profile information.
+- ✅ **Home Screen** – Displays a categorized and searchable menu.
+- ✅ **Live Search & Filtering** – Users can filter dishes by type and keyword.
+- ✅ **Menu Item Detail View** – Shows dish description, image, and price.
+- ✅ **Add to Cart / Order Simulation** – Basic order functionality to simulate a full user flow.
+- ✅ **User Profile Screen** – Lets users view and edit their info, persisted using SharedPreferences or Room.
+- ✅ **Offline Support** – Menu data is cached using **Room** for offline access.
+- ✅ **Networking with Ktor** – Fetches menu items from a remote server using **Ktor** and `kotlinx.serialization`.
+- ✅ **Modern Architecture** – Built with **MVVM**, **Jetpack Navigation**, and **Jetpack Compose**.
+- ✅ **Theming & UI Consistency** – Uses **Material You** guidelines and centralized theming.
+- ✅ **Image Loading** – Efficient image handling with **Coil** (or Glide alternative).
+
+## 🧭 App Journey Visualization
+
+The project includes a **Figma design image** that outlines the full user journey — from launching the app to placing an order. It visualizes screen transitions, user decisions, and expected UI behavior.
+
 
 ## ⚠️ Note
 
