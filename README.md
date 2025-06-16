@@ -31,8 +31,7 @@ The project includes a **Figma design image** that outlines the full user journe
 
 ## ⚠️ Note
 
-> After cloning the project, **make sure to configure the Ktor client** in order for the app to function properly.
-
+> After cloning the project, **make sure to configure the KSP (Kotlin Symbol Processing) library** properly so that the app works as expected.
 ---
 
 **By Khayoon**
