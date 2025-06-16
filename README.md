@@ -31,7 +31,7 @@ The project includes a **Figma design image** that outlines the full user journe
 
 ## ⚠️ Note
 
-> After cloning the project, **make sure to configure the Ktor client (base URL and any required endpoints)** in order for the app to function properly.
+> After cloning the project, **make sure to configure the Ktor client** in order for the app to function properly.
 
 ---
 
