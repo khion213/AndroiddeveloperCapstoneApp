@@ -19,10 +19,8 @@ This project implements all required features of the Meta capstone and includes 
 - ✅ **Add to Cart / Order Simulation** – Basic order functionality to simulate a full user flow.
 - ✅ **User Profile Screen** – Lets users view and edit their info, persisted using SharedPreferences or Room.
 - ✅ **Offline Support** – Menu data is cached using **Room** for offline access.
-- ✅ **Networking with Ktor** – Fetches menu items from a remote server using **Ktor** and `kotlinx.serialization`.
 - ✅ **Modern Architecture** – Built with **MVVM**, **Jetpack Navigation**, and **Jetpack Compose**.
 - ✅ **Theming & UI Consistency** – Uses **Material You** guidelines and centralized theming.
-- ✅ **Image Loading** – Efficient image handling with **Coil** (or Glide alternative).
 
 ## 🧭 App Journey Visualization
 
